@@ -27,7 +27,12 @@
 
 ## Projeto
 
- Nesse projeto foi criado do zero essa aplicação web que é basicamente uma aplicação para controle financeiro, onde podemos cadastrar novas transações, como depósito e retirada e tudo isso irá ser listado e irá refletir no nosso total que é exibido na interface da aplicação. Estou utilizando React com typescript, e para salvar os dados usamos o Miragejs que basicamente substitui o nosso banco de dados tradicional e pode ser bem útil em algumas ocasiões, todos os estilos dessa página foram feito com Css in Js no caso utilizando a biblioteca Styled Components, e para consumir a API que é criada também para nossas Transações é utilizado o axios, essa aplicação está toda dividida por componentes e utilizando as melhores boas práticas.
+ Caso queira rodar essa aplicação em sua máquina, basta usar os comandos: 
+
+ - yarn 
+ - yarn start
+
+ Esse projeto foi criado do zero essa aplicação web que é basicamente uma aplicação para controle financeiro, onde podemos cadastrar novas transações, como depósito e retirada e tudo isso irá ser listado e irá refletir no nosso total que é exibido na interface da aplicação. Estou utilizando React com typescript, e para salvar os dados usamos o Miragejs que basicamente substitui o nosso banco de dados tradicional e pode ser bem útil em algumas ocasiões, todos os estilos dessa página foram feito com Css in Js no caso utilizando a biblioteca Styled Components, e para consumir a API que é criada também para nossas Transações é utilizado o axios, essa aplicação está toda dividida por componentes e utilizando as melhores boas práticas.
 
  - - - 
 
